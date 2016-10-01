@@ -1,0 +1,14 @@
+GhostLine/ClassLibrary1/bin/*
+GhostLine/ClassLibrary1/obj/*
+GhostLine/ClassLibrary1/obj/*
+GhostLine/Example/obj/*
+GhostLine/Example/bin/*
+GhostLine/GhostLine/obj/*
+GhostLine/GhostLine/GhostLine.csproj.user
+GhostLine/GhostLineTest/obj/*
+GhostLine/GhostLineTest/bin/*
+GhostLine/GhostLineTest/bin/*
+GhostLine/GhostLineTest/bin/*
+GhostLine/GhostLineTest/bin/*
+GhostLine/Nuget/nuget.exe
+GhostLine/GhostLineTest/obj/Debug/*

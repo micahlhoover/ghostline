@@ -1,5 +1,0 @@
-C:\Users\micah\OneDrive\Documents\Visual Studio 2015\Projects\GhostLine\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-C:\Users\micah\OneDrive\Documents\Visual Studio 2015\Projects\GhostLine\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-C:\Users\micah\OneDrive\Documents\Visual Studio 2015\Projects\GhostLine\ClassLibrary1\obj\Debug\GhostLine.csprojResolveAssemblyReference.cache
-C:\Users\micah\OneDrive\Documents\Visual Studio 2015\Projects\GhostLine\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-C:\Users\micah\OneDrive\Documents\Visual Studio 2015\Projects\GhostLine\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

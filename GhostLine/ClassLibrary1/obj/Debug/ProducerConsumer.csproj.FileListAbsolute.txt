@@ -1,5 +1,0 @@
-c:\users\micah\onedrive\documents\visual studio 2015\Projects\ProducerConsumer\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-c:\users\micah\onedrive\documents\visual studio 2015\Projects\ProducerConsumer\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-c:\users\micah\onedrive\documents\visual studio 2015\Projects\ProducerConsumer\ClassLibrary1\obj\Debug\ProducerConsumer.csprojResolveAssemblyReference.cache
-c:\users\micah\onedrive\documents\visual studio 2015\Projects\ProducerConsumer\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-c:\users\micah\onedrive\documents\visual studio 2015\Projects\ProducerConsumer\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
