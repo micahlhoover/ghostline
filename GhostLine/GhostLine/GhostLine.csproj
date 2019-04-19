@@ -7,8 +7,8 @@
     <ProjectGuid>{BD57C9E7-BCA4-46DF-B92F-70A2C54759E3}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClassLibrary1</RootNamespace>
-    <AssemblyName>ClassLibrary1</AssemblyName>
+    <RootNamespace>GhostLine</RootNamespace>
+    <AssemblyName>GhostLine</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
