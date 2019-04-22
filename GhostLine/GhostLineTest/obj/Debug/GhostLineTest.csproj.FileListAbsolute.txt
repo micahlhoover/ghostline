@@ -27,11 +27,11 @@ C:\Users\micah\OneDrive\Documents\Visual Studio 2015\Projects\ghostline\GhostLin
 C:\Users\micah\OneDrive\Documents\Visual Studio 2015\Projects\ghostline\GhostLine\GhostLineTest\obj\Debug\ProducerConsumerTest.pdb
 C:\Users\ryan.l.hoover\Desktop\App Projects\ghostLine\ghostline\GhostLine\GhostLineTest\bin\Debug\ProducerConsumerTest.dll
 C:\Users\ryan.l.hoover\Desktop\App Projects\ghostLine\ghostline\GhostLine\GhostLineTest\bin\Debug\ProducerConsumerTest.pdb
-C:\Users\ryan.l.hoover\Desktop\App Projects\ghostLine\ghostline\GhostLine\GhostLineTest\bin\Debug\ClassLibrary1.dll
 C:\Users\ryan.l.hoover\Desktop\App Projects\ghostLine\ghostline\GhostLine\GhostLineTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\ryan.l.hoover\Desktop\App Projects\ghostLine\ghostline\GhostLine\GhostLineTest\bin\Debug\ClassLibrary1.pdb
 C:\Users\ryan.l.hoover\Desktop\App Projects\ghostLine\ghostline\GhostLine\GhostLineTest\obj\Debug\GhostLineTest.csprojAssemblyReference.cache
 C:\Users\ryan.l.hoover\Desktop\App Projects\ghostLine\ghostline\GhostLine\GhostLineTest\obj\Debug\GhostLineTest.csproj.CoreCompileInputs.cache
 C:\Users\ryan.l.hoover\Desktop\App Projects\ghostLine\ghostline\GhostLine\GhostLineTest\obj\Debug\GhostLineTest.csproj.CopyComplete
 C:\Users\ryan.l.hoover\Desktop\App Projects\ghostLine\ghostline\GhostLine\GhostLineTest\obj\Debug\ProducerConsumerTest.dll
 C:\Users\ryan.l.hoover\Desktop\App Projects\ghostLine\ghostline\GhostLine\GhostLineTest\obj\Debug\ProducerConsumerTest.pdb
+C:\Users\ryan.l.hoover\Desktop\App Projects\ghostLine\ghostline\GhostLine\GhostLineTest\bin\Debug\GhostLine.dll
+C:\Users\ryan.l.hoover\Desktop\App Projects\ghostLine\ghostline\GhostLine\GhostLineTest\bin\Debug\GhostLine.pdb
